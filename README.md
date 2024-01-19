@@ -26,13 +26,13 @@ MVP features implemented (top 5 of the initial list):
   
 ![image](https://github.com/alicemariapirvulescu/duolingo-master/assets/63742125/bf4f0d5f-c93d-40a4-b351-b5f5e40e8f7d)
 
-<br />
-<br />
 - Languages module:
   Upon logging in, users can select one or more languages they wish to learn or practice.
   The application should offer a diverse range of languages from which users can choose.
   Users should have the flexibility to modify their selection of languages at any time, allowing them to add new languages or remove previously selected ones from their learning list.
   Access to Language Lessons <br />
+  <br />
+![image](https://github.com/alicemariapirvulescu/duolingo-master/assets/63742125/921092aa-a3fb-4afd-b96e-edfcf4846639)
 
 
 <br /><br />
